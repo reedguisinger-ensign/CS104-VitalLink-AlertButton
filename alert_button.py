@@ -2,7 +2,7 @@ import time
 import requests
 import RPi.GPIO as GPIO
 
-bot_token = "8729286542:AAGaDC22Dfhb5xyetYXZVgvl30OdOXoI74s"
+bot_token = "you can't have it"
 chat_id = "8606788019"
 
 def send_telegram_message(text):
